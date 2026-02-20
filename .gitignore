@@ -4,6 +4,11 @@
 
 # Memory files
 memory/
+
+# Blog posts
+blog/*.md
+
+# Other markdown files
 *.md
 !README.md
 
