@@ -1,0 +1,19 @@
+# OpenClaw workspace files
+.openclaw/
+.clawhub/
+
+# Memory files
+memory/
+*.md
+!README.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
